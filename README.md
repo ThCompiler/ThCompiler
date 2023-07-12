@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <h3 align="left">Stats:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThCompiler&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=monokai)
+#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThCompiler&show_icons=true&locale=en&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=monokai)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ThCompiler&theme=monokai&row=2&column=3)
 
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ThCompiler&theme=monokai)
 
-![Vercel stats](https://github-readme-stats.vercel.app/api/top-langs?username=ThCompiler&show_icons=true&locale=en&layout=compact&exclude_repo=nirs-5th-sem-bmstu&hide=html,javascript,tex&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=monokai)
+#![Vercel stats](https://github-readme-stats.vercel.app/api/top-langs?username=ThCompiler&show_icons=true&locale=en&layout=compact&exclude_repo=nirs-5th-sem-bmstu&hide=html,javascript,tex&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&theme=monokai)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
